@@ -9,7 +9,9 @@ const App = () => {
         <Navbar />
         <Hero />
       </div>
+      <div className="bg-gradient-to-b from-tertiary via-blue-700 to-blue-1000">
       <About />
+      </div>
       <Experience />
       <Tech />
       <Works />
