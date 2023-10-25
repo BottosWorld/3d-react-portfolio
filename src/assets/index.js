@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logoB from "./logoB.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -16,10 +16,15 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import next from "./tech/next.svg"
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import laravel from "./tech/laravel.svg";
+import php from "./tech/php.png";
+import mysql from "./tech/mysql.svg";
+import aws from "./tech/aws.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -31,7 +36,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+  logoB,
   backend,
   creator,
   mobile,
@@ -48,10 +53,15 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  next,
   redux,
   tailwind,
   typescript,
   threejs,
+  php,
+  laravel,
+  aws,
+  mysql,
   meta,
   shopify,
   starbucks,

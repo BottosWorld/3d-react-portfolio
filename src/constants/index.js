@@ -23,6 +23,11 @@ import {
     jobit,
     tripguide,
     threejs,
+    php,
+    laravel,
+    mysql,
+    aws,
+    next,
   } from "../assets";
   
   export const navLinks = [
@@ -61,12 +66,12 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "PHP",
+      icon: php,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Laravel",
+      icon: laravel,
     },
     {
       name: "JavaScript",
@@ -81,36 +86,36 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Node JS",
+      icon: nodejs,
+    },
+    {
+      name: "Next JS",
+      icon: next,
     },
     {
       name: "Tailwind CSS",
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "Git",
+      icon: git,
+    },
+    {
+      name: "Docker",
+      icon: docker,
+    },
+    {
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
     },
     {
       name: "MongoDB",
       icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
@@ -118,7 +123,7 @@ import {
     {
       title: "Freelance Software Engineer",
       company_name: "Bryan Bottorff",
-      icon: starbucks,
+      icon: "",
       iconBg: "#383E56",
       date: "October 2023 - Present",
       points: [
@@ -126,8 +131,8 @@ import {
     },
     {
       title: "Software Engineer II",
-      company_name: "Tranzact",
-      icon: starbucks,
+      company_name: "Tranzact (Q3M Team)",
+      icon: "",
       iconBg: "#383E56",
       date: "July 2021 - October 2023",
       points: [
@@ -141,9 +146,9 @@ import {
     },
     {
       title: "Software Engineer I",
-      company_name: "Tranzact",
-      icon: tesla,
-      iconBg: "#E6DEDD",
+      company_name: "Tranzact (Q3M Team)",
+      icon: "",
+      iconBg: "#383E56",
       date: "March 2021 - July 2021",
       points: [
         "Increased code infrastructure efficiency 50%+ by optimizing import processes and leveraging DRY and KISS principles",
@@ -152,24 +157,6 @@ import {
         "Increased access to new data sources and partners through integration of 3rd party APIs",
         "Facilitated strategic decision-making by creating ad-hoc reports for executives in MySQL to improve forecasting",
         "Built solutions and tools utilizing agile methodologies to track features, facilitate testing and enable innovative problem-solving",
-      ],
-    },
-    {
-      title: "Product Specialist",
-      company_name: "Sisense",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2020 - May 2020",
-      points: [
-      ],
-    },
-    {
-      title: "Publisher Sales Manager",
-      company_name: "PX",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "June 2018 - October 2019",
-      points: [
       ],
     },
   ];
