@@ -4,6 +4,7 @@ import {Link} from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
 import { logoB, menu, close } from '../assets';
+import LogoB from './LottieB';
 
 const Navbar = () => {
   const[active, setActive] = useState('');
@@ -22,7 +23,7 @@ const Navbar = () => {
             window.scrollTo(0,0);
           }}
         >
-          {/* <img src={logoB} alt="logo" className='object-contain' /> */}
+          <LogoB />
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>Bryan Bottorff&nbsp; <span className='sm:block hidden'>| Portfolio</span></p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
