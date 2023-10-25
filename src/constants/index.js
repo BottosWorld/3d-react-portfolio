@@ -190,12 +190,12 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Threads Clone",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "TBD",
       tags: [
         {
-          name: "react",
+          name: "nextjs",
           color: "blue-text-gradient",
         },
         {
@@ -208,36 +208,36 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/bottosworld",
     },
     {
-      name: "Job IT",
+      name: "BottosWorld",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Introducing BottosWorld: a cutting-edge 3D, AI-powered e-commerce platform that revolutionizes the world of custom design. By leveraging artificial intelligence and 3D technology, BottosWorld empowers users to effortlessly generate personalized designs for any item, seamlessly integrating with a print-on-demand model. Explore endless creativity, express your unique style, and turn your imagination into tangible products with BottosWorld.",
       tags: [
         {
-          name: "react",
+          name: "AI",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "shopify",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "stripe",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/bottosworld",
     },
     {
-      name: "Trip Guide",
+      name: "ZenSave",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "ZenSave is the ultimate personal finance budgeting app designed for millennials and Gen Z, offering complete financial clarity. With features like expense tracking, bill management, savings planning, and credit-building tools, ZenSave empowers users to master their financial journey and achieve their money goals with serene confidence.",
       tags: [
         {
-          name: "nextjs",
+          name: "react-native",
           color: "blue-text-gradient",
         },
         {
@@ -245,12 +245,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "AWS",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/bottosworld",
     },
   ];
   
