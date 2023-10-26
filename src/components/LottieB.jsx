@@ -3,8 +3,8 @@ import Lottie from "lottie-react";
 import monsterB from "../assets/lottie/monsterB.json";
 
 const style = {
-    width: 100,
-    height: 100,
+    width: 120,
+    height: 120,
 }
 
 const LogoB = () => <Lottie animationData={monsterB} loop={true} style={style}/>;
