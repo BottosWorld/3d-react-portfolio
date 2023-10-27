@@ -22,7 +22,7 @@ const Hero = () => {
 
         </div>
 
-        <div className={`${styles.paddingX} absolute inset-0 top-[180px] sm:top-[180px] max-w-7xl mx-auto flex flex-row items-start gap-5`}>
+        <div className={`${styles.paddingX} absolute inset-0 top-[180px] sm:top-[180px] w-full mx-auto flex flex-row items-start gap-5`}>
 
           <ComputersCanvas />
         </div>
