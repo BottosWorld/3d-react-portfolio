@@ -121,6 +121,18 @@ import {
   
   const experiences = [
     {
+      title: "Application Developer - Workflow Engineer (Integrations)",
+      company_name: "Blend Labs Inc.",
+      icon: "",
+      iconBg: "#383E56",
+      date: "January 2024 - Present",
+      points: [
+        "Instant Home Equity",
+        "Identity Verifications",
+        "Innovation Services"
+      ],
+    },
+    {
       title: "Freelance Software Engineer",
       company_name: "Bryan Bottorff",
       icon: "",
