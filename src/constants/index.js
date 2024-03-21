@@ -19,9 +19,9 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
+    tranzact_logo,
+    logoWhite,
+    blend_logo,
     threejs,
     php,
     laravel,
@@ -29,6 +29,7 @@ import {
     aws,
     next,
   } from "../assets";
+  import LottieBicon from "../components/LottieBicon";
   
   export const navLinks = [
     {
@@ -121,9 +122,21 @@ import {
   
   const experiences = [
     {
+      title: "Software Engineer - Integrations",
+      company_name: "Blend Labs, Inc.",
+      icon: blend_logo,
+      iconBg: "#383E56",
+      date: "January 2024 - Present",
+      points: [
+        "Instant Home Equity",
+        "Identity Verifications",
+        "Innovation Services"
+      ],
+    },
+    {
       title: "Freelance Software Engineer",
       company_name: "Bryan Bottorff",
-      icon: "",
+      icon: logoWhite,
       iconBg: "#383E56",
       date: "October 2023 - Present",
       points: [
@@ -132,7 +145,7 @@ import {
     {
       title: "Software Engineer II",
       company_name: "Tranzact (Q3M Team)",
-      icon: "",
+      icon: tranzact_logo,
       iconBg: "#383E56",
       date: "July 2021 - October 2023",
       points: [
@@ -147,7 +160,7 @@ import {
     {
       title: "Software Engineer I",
       company_name: "Tranzact (Q3M Team)",
-      icon: "",
+      icon: tranzact_logo,
       iconBg: "#383E56",
       date: "March 2021 - July 2021",
       points: [
@@ -190,9 +203,9 @@ import {
   
   const projects = [
     {
-      name: "Threads Clone",
+      name: "Botto",
       description:
-        "TBD",
+        "AI Chatbot that optimizes prompts for various LLMs. Select your model and input prompt parameters, click optimize to get your result. You can also create your own prompt formulas to generate prompts or randomize parameters.",
       tags: [
         {
           name: "nextjs",
@@ -207,7 +220,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: "",
       source_code_link: "https://github.com/bottosworld",
     },
     {
@@ -228,7 +241,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: "",
       source_code_link: "https://github.com/bottosworld",
     },
     {
@@ -249,7 +262,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: "",
       source_code_link: "https://github.com/bottosworld",
     },
   ];
