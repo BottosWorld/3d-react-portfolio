@@ -121,8 +121,8 @@ import {
   
   const experiences = [
     {
-      title: "Application Developer - Workflow Engineer (Integrations)",
-      company_name: "Blend Labs Inc.",
+      title: "Software Engineer - Integrations",
+      company_name: "Blend Labs, Inc.",
       icon: "",
       iconBg: "#383E56",
       date: "January 2024 - Present",
@@ -202,9 +202,9 @@ import {
   
   const projects = [
     {
-      name: "Threads Clone",
+      name: "Botto",
       description:
-        "TBD",
+        "AI Chatbot that optimizes prompts for various LLMs. Select your model and input prompt parameters, click optimize to get your result. You can also create your own prompt formulas to generate prompts or randomize parameters.",
       tags: [
         {
           name: "nextjs",
@@ -219,7 +219,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: "",
       source_code_link: "https://github.com/bottosworld",
     },
     {
@@ -240,7 +240,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: "",
       source_code_link: "https://github.com/bottosworld",
     },
     {
@@ -261,7 +261,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: "",
       source_code_link: "https://github.com/bottosworld",
     },
   ];
