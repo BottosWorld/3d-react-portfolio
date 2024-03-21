@@ -1,4 +1,7 @@
 import logoB from "./logoB.svg";
+import logoBlack from "./logoBlack.svg";
+import logoWhite from "./logoWhite.svg";
+
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -41,6 +44,8 @@ import tripguide from "./tripguide.png";
 
 export {
   logoB,
+  logoBlack,
+  logoWhite,
   backend,
   creator,
   mobile,

@@ -20,7 +20,7 @@ import {
     tesla,
     shopify,
     tranzact_logo,
-    jobit,
+    logoWhite,
     blend_logo,
     threejs,
     php,
@@ -29,6 +29,7 @@ import {
     aws,
     next,
   } from "../assets";
+  import LottieBicon from "../components/LottieBicon";
   
   export const navLinks = [
     {
@@ -135,7 +136,7 @@ import {
     {
       title: "Freelance Software Engineer",
       company_name: "Bryan Bottorff",
-      icon: "",
+      icon: logoWhite,
       iconBg: "#383E56",
       date: "October 2023 - Present",
       points: [
