@@ -19,9 +19,9 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
+    tranzact_logo,
     jobit,
-    tripguide,
+    blend__logo,
     threejs,
     php,
     laravel,
@@ -123,7 +123,7 @@ import {
     {
       title: "Software Engineer - Integrations",
       company_name: "Blend Labs, Inc.",
-      icon: "",
+      icon: blend__logo,
       iconBg: "#383E56",
       date: "January 2024 - Present",
       points: [
@@ -144,7 +144,7 @@ import {
     {
       title: "Software Engineer II",
       company_name: "Tranzact (Q3M Team)",
-      icon: "",
+      icon: tranzact_logo,
       iconBg: "#383E56",
       date: "July 2021 - October 2023",
       points: [
@@ -159,7 +159,7 @@ import {
     {
       title: "Software Engineer I",
       company_name: "Tranzact (Q3M Team)",
-      icon: "",
+      icon: tranzact_logo,
       iconBg: "#383E56",
       date: "March 2021 - July 2021",
       points: [
