@@ -30,6 +30,10 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import blend_logo from "./blend_logo.png";
+import tranzact_logo from "./tranzact_logo.png";
+
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
