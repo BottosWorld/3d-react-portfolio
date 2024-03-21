@@ -21,7 +21,7 @@ import {
     shopify,
     tranzact_logo,
     jobit,
-    blend__logo,
+    blend_logo,
     threejs,
     php,
     laravel,
@@ -123,7 +123,7 @@ import {
     {
       title: "Software Engineer - Integrations",
       company_name: "Blend Labs, Inc.",
-      icon: blend__logo,
+      icon: blend_logo,
       iconBg: "#383E56",
       date: "January 2024 - Present",
       points: [
