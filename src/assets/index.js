@@ -69,4 +69,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  tranzact_logo,
+  blend_logo,
 };
